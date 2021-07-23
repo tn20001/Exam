@@ -1,0 +1,12 @@
+Dolma
+5
+Cox babatdi
+2
+Kebab
+8
+Cox Zor
+1
+Pizza
+11
+AUE
+0

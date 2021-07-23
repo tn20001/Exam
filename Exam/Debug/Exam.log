@@ -1,0 +1,25 @@
+﻿  Database.cpp
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(68,46): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(80,29): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(83,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(107,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(147,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(170,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(195,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(212,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(227,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(243,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(315,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(316,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Database.cpp(319,25): warning C4018: '<': signed/unsigned mismatch
+  Restourant.cpp
+C:\Users\tnqar\source\repos\Exam\Exam\Restourant.cpp(89,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Restourant.cpp(110,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tnqar\source\repos\Exam\Exam\Restourant.cpp(142,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Exam.vcxproj -> C:\Users\tnqar\source\repos\Exam\Debug\Exam.exe
